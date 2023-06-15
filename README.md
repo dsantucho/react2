@@ -1,5 +1,6 @@
 # Tech
 https://chatengine.io/ -> trial 30 days starting 13/JUN/23 
+sudo npm install react-chat-engine @ant-design/icons axios
 
 # Getting Started with Create React App
 
